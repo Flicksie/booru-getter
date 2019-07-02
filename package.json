@@ -1,5 +1,5 @@
 {
-  "name": "booru-getter",
+  "name": "boorugetter",
   "version": "1.0.0",
   "description": "Promise-based module for retrieving images from Safebooru and Gelbooru. Extended from Gochida's booru-getter",
   "main": "index.js",
