@@ -1,16 +1,12 @@
 {
   "name": "booru-getter",
-  "version": "0.0.1",
-  "description": "Module for retrieving images from Safebooru and Gelbooru",
+  "version": "1.0.0",
+  "description": "Promise-based module for retrieving images from Safebooru and Gelbooru. Extended from Gochida's booru-getter",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository":"https://github.com/Gochida/booru-getter.git",
-  "author": "Yobi Gochida",
+  "repository":"https://github.com/Flicksie/booru-getter.git",
+  "author": "Flicksie",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.79.0",
     "superagent": "^3.3.1",
     "xml2js": "^0.4.17"
   }
