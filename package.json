@@ -1,7 +1,7 @@
 {
-  "name": "boorugetter",
+  "name": "booru-data",
   "version": "1.0.0",
-  "description": "Promise-based module for retrieving images from Safebooru and Gelbooru. Extended from Gochida's booru-getter",
+  "description": "Promise-based module for retrieving entries from Safebooru and Gelbooru. Extended from Gochida's booru-getter",
   "main": "index.js",
   "repository":"https://github.com/Flicksie/booru-getter.git",
   "author": "Flicksie",
